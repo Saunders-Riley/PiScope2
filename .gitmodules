@@ -1,0 +1,3 @@
+[submodule "PiScope2-FPGA"]
+	path = PiScope2-FPGA
+	url = git@github.com:Saunders-Riley/PiScope2-FPGA.git
