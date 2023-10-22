@@ -1,3 +1,6 @@
 [submodule "PiScope2-FPGA"]
 	path = PiScope2-FPGA
 	url = git@github.com:Saunders-Riley/PiScope2-FPGA.git
+[submodule "PiScope2-Hardware"]
+	path = PiScope2-Hardware
+	url = git@github.com:Saunders-Riley/PiScope2-Hardware.git
